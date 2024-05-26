@@ -1,5 +1,5 @@
 # 💫 Hi I'm Arnav Ankush!
- I'm currently learning Web Development form Udemy by Angela Yu.<br>Studying Bachelor of Computer Applications from Manipal University Jaipur Online.<br> 
+ I'm currently learning Web Development form Udemy by Angela Yu.<br> 
 
 
 ## 🌐 Socials:
