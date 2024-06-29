@@ -1,5 +1,5 @@
 # 💫 Hi I'm Arnav Ankush!
- I'm currently learning Web Development form Udemy by Angela Yu.<br> 
+MERN stack developer Student seeking full time job in Frontend Development || HTML || CSS || JAVASCRIPT || Bootstrap.<br> 
 
 
 ## 🌐 Socials:
