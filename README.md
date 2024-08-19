@@ -1,26 +1,81 @@
-# 💫 Hi I'm Arnav Ankush!
-MERN stack developer Student seeking full time job in Frontend Development || HTML || CSS || JAVASCRIPT || Bootstrap.<br> 
+# 👋 Hi there, I'm Arnav Ankush
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arnav.ankush/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnav-ankush-80140b279/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ankush_arn69984) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arnavankush30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnavankush30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavankush30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arnavankush30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Welcome to my GitHub profile! I'm an aspiring Frontend Developer passionate about crafting engaging and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, SASS, and GSAP, and currently diving deep into React, I'm excited to expand my expertise and build innovative solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arnavankush30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- **Current Focus:** Mastering React to create dynamic and interactive user interfaces.
+- **Location:** Mumbai, India
+- **Education Journey:** Started a Bachelor’s in Computer Applications at Manipal University Jaipur, where I gained initial programming knowledge. Opted to pivot to intensive self-study and practical projects to quickly align with industry needs and advance my technical skills.
+- **Passionate About:** Creating seamless user experiences, staying on top of the latest web technologies, and solving complex problems through code.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Frontend Technologies:** 
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - SASS
+- **Libraries & Frameworks:** 
+  - React
+  - GSAP
+- **Tools:** 
+  - Visual Studio Code
+  - Git
+  - npm
+- **Design:** 
+  - Responsive Design
+  - Cross-Browser Compatibility
+  - User Experience (UX)
+
+---
+
+## 🌟 Projects
+
+### [SoulTravels](link-to-repo)
+A travel website developed using **HTML, CSS, and JavaScript**. Features include:
+- **User-friendly interface** showcasing travel destinations and itineraries.
+- **Responsive design** to ensure an optimal viewing experience across devices.
+
+### [Portfolio Website](https://arnavankush30.github.io/My-project-portfolio-website-Html-css-and-Javascript/)
+A personal portfolio website to showcase my skills and projects. Developed with HTML, CSS, and JavaScript.
+
+
+### [Weather App](https://arnavankush30.github.io/Weather-App/)
+A weather application created using React and the OpenWeatherMap API. Designed with a responsive UI using SASS and integrated state management for handling API data.
+
+---
+
+## 🌱 Currently Learning
+
+- **Advanced React Concepts:** Hooks, Context API, and more
+- **State Management Libraries:** Redux, MobX
+
+---
+
+## 📈 My Learning Journey
+
+I’m dedicated to evolving into a proficient frontend developer. Here’s a snapshot of my current focus:
+
+- **Deepening React Knowledge:** Exploring advanced features and best practices.
+- **Enhancing UX/UI Skills:** Studying user experience and interface design principles.
+- **Building Practical Projects:** Applying skills to real-world problems and contributing to open-source.
+
+---
+
+## 🤝 Let's Connect
+
+I’m always open to new opportunities, collaborations, and discussions about web development. Feel free to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/arnav-ankush-80140b279/)
+- [Twitter](https://x.com/ankush_arn69984) 
+- [Email](mailto:arnavankush30@gmail.com)
+
+---
+
+Thank you for visiting my profile! I look forward to connecting with fellow developers and potential collaborators.
+
